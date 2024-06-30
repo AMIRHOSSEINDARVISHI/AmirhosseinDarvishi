@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?AMIRHOSSEINDARVISHI=Naereen&theme=blue-green)](https://github.com/AMIRHOSSEINDARVISHI/github-readme-stats)
+-->\
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AMIRHOSSEINDARVISHI&theme=blue-green)](https://github.com/AMIRHOSSEINDARVISHI/github-readme-streak-stats)
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
