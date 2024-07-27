@@ -20,12 +20,12 @@ Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 <img src="https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-E34F26?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-66595C?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+<img src="https://img.shields.io/badge/AR-3776AB?style=for-the-badge&logo=ar&logoColor=white">
+<img src="https://img.shields.io/badge/VR-3776AB?style=for-the-badge&logo=VR&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AMIRHOSSEINDARVISHI&theme=blue-green)](https://github.com/AMIRHOSSEINDARVISHI)
 
