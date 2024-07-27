@@ -21,10 +21,10 @@ Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 <img src="https://img.shields.io/badge/Kotlin-E34F26?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Machine_learning-FF1100?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-072571?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Augmented_reality-3776AB?style=for-the-badge&logo=augmentedreality&logoColor=white">
-<img src="https://img.shields.io/badge/Virtual_reality-3776AB?style=for-the-badge&logo=VR&logoColor=white">
-<img src="https://img.shields.io/badge/Artificial_intelligence-3776AB?style=for-the-badge&logo=opencl&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-00FFBF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Augmented_reality-674EA7?style=for-the-badge&logo=augmentedreality&logoColor=white">
+<img src="https://img.shields.io/badge/Virtual_reality-31A1FF?style=for-the-badge&logo=VR&logoColor=white">
+<img src="https://img.shields.io/badge/Artificial_intelligence-999999?style=for-the-badge&logo=opencl&logoColor=white">
 
 
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AMIRHOSSEINDARVISHI&theme=blue-green)](https://github.com/AMIRHOSSEINDARVISHI)
