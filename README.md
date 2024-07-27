@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I'm 18 y.o student! I'm interested in cyber security and game development and I used to be a web developer, but I quit it!
+
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AMIRHOSSEINDARVISHI&theme=blue-green)](https://github.com/AMIRHOSSEINDARVISHI)
 
 
