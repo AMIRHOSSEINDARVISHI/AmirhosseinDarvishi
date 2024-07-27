@@ -30,7 +30,6 @@ Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AMIRHOSSEINDARVISHI&theme=blue-green)](https://github.com/AMIRHOSSEINDARVISHI)
 
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/AMIRHOSSEINDARVISHI)
 
 
 
