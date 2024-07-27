@@ -30,8 +30,8 @@ Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirjahan1&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinBaderan
-&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinBaderan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15)
+
 
 
 
