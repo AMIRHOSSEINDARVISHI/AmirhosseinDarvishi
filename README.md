@@ -22,8 +22,8 @@ Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 <img src="https://img.shields.io/badge/Java-66595C?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/AR-3776AB?style=for-the-badge&logo=ar&logoColor=white">
-<img src="https://img.shields.io/badge/VR-3776AB?style=for-the-badge&logo=VR&logoColor=white">
+<img src="https://img.shields.io/badge/Augmented_reality-3776AB?style=for-the-badge&logo=augmentedreality&logoColor=white">
+<img src="https://img.shields.io/badge/Virtual_reality-3776AB?style=for-the-badge&logo=VR&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
