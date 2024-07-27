@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I am a 21-year-old student! I'm a mobile developer and I work backend sometimes.
 
-
+# 💻 Tech Stack:
 <img src="https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Python-6AA84F?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-E34F26?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Machine_learning-FF1100?style=for-the-badge&logo=python&logoColor=white">
