@@ -27,8 +27,9 @@ Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 <img src="https://img.shields.io/badge/Artificial_intelligence-999999?style=for-the-badge&logo=opencl&logoColor=white">
 
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AMIRHOSSEINDARVISHI&theme=blue-green)](https://github.com/AMIRHOSSEINDARVISHI)
-
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=amirjahan1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjahan1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
