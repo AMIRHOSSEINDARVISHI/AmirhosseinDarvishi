@@ -1,38 +1,21 @@
-## Hi My Name Is Amirhossein Darvishi
+# 💫 About Me:
+👋 Amirhossein Darvishi<br>🌟 Mobile Development Wizard | 5+ Years of Innovation & Code Crafting<br><br>🚀 Who Am I?<br>A 21-year-old programming enthusiast with a passion for turning ideas into powerful mobile experiences. I’ve spent the last 5 years mastering the art of mobile app development across multiple platforms and languages. From building blazing-fast apps in Flutter, to writing smooth, native code with Kotlin and Swift, I’m all about creating user-centric, high-performance applications that shine.<br><br>💻 Tech Arsenal:<br><br>Flutter – Cross-platform efficiency at its best<br>Kotlin – Crafting Android apps with precision<br>Swift – Native iOS development with seamless performance<br>Java & Python – Backend integration and robust architectures<br>🔥 What Drives Me?<br>I live for coding challenges, pushing the limits of mobile development, and exploring the latest in tech. With a passion for clean code, scalable architecture, and beautiful UI/UX, I’m always seeking to deliver the best possible experience for users.<br><br>🎯 Core Expertise:<br><br>Full-stack mobile development with a focus on performance optimization<br>Strong believer in agile methodologies and test-driven development<br>Advocate for open-source contributions and continuous learning<br>Always up for collaborating on innovative projects and new technologies<br>🌱 Let’s Create the Future<br>I’m here to collaborate, innovate, and build something amazing. Whether it's a mobile app that makes life easier, or a tech-driven solution that pushes the boundaries—let’s make it happen!
 
-<!--
-**AMIRHOSSEINDARVISHI/AmirhosseinDarvishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15"> I am a 21-year-old student! I'm a mobile developer and I work backend sometimes.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amirho33in.real) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Amirho33in.real) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhossein-darvishi-bab190322) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Amieho33in_real) 
 
 # 💻 Tech Stack:
-<img src="https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Python-6AA84F?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-E34F26?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Machine_learning-FF1100?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-072571?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-00FFBF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Augmented_reality-674EA7?style=for-the-badge&logo=augmentedreality&logoColor=white">
-<img src="https://img.shields.io/badge/Virtual_reality-31A1FF?style=for-the-badge&logo=VR&logoColor=white">
-<img src="https://img.shields.io/badge/Artificial_intelligence-999999?style=for-the-badge&logo=opencl&logoColor=white">
-
-
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=amirjahan1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AMIRHOSSEINDARVISHI&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AMIRHOSSEINDARVISHI&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIRHOSSEINDARVISHI&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinBaderan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AMIRHOSSEINDARVISHI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=AMIRHOSSEINDARVISHI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
